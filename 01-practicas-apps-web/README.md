@@ -19,9 +19,10 @@
 **Qué es:** Tienda online de demostración, creada para practicar testing.
 **Qué hice:** Exploré la aplicación y reporté 18 defectos con pasos, resultado esperado y obtenido, severidad y prioridad.
 **Técnicas:** Testing exploratorio por módulos, usando standard_user como oráculo para comparar el comportamiento con problem_user.
+
 | Archivo | Qué es |
 |---------|--------|
 | [saucedemo/reporte-de-defectos-saucedemo.pdf](./saucedemo/reporte-de-defectos-saucedemo.pdf) | Defectos reportados (también en .xlsx) |
 
 ## Herramientas
-Excel · Herramienta Recortes de Windows · Google Scheets · Google Docs · Git · Claude (asistente de IA): consulta y revisión del diseño de casos.
+Excel · Herramienta Recortes de Windows · Google Sheets · Google Docs · Git · Claude (asistente de IA): consulta y revisión del diseño de casos.

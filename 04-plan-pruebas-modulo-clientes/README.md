@@ -19,4 +19,4 @@
 > Documentos anonimizados: sin nombres de empresas, personas, código ni endpoints.
 
 ## Herramientas
-Excel · Herramienta Recortes de Windows · Jira ·SQL· Claude (asistente de IA): consulta y revisión del diseño de casos
+Excel · Herramienta Recortes de Windows · Jira · SQL · Claude (asistente de IA): consulta y revisión del diseño de casos
