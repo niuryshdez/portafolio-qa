@@ -31,4 +31,4 @@ Se quitaron nombres de empresas y personas, rutas de código, endpoints y cualqu
 
 ## Contacto
 
-[LinkedIn](https://www.linkedin.com/in/[tu-usuario])
+[LinkedIn](https://www.linkedin.com/in/niurys-hernandez)
