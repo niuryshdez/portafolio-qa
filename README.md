@@ -10,7 +10,7 @@ análisis funcional, diseño de casos de prueba, sesiones exploratorias y report
 | # | Proyecto | Qué muestra | Técnicas |
 |---|----------|-------------|----------|
 | 01 | [Prácticas en apps web](./01-practicas-apps-web) | Diseño de casos de prueba (Paprika) y reporte de defectos (SauceDemo) | partición de equivalencias,casos positivos y negativos, valores límite, adivinación de errores, pruebas por sección |
-| 02 | [Testing exploratorio — Cine Ópera](./02-exploratorio-cine-opera) | Sesión exploratoria sobre un sitio web real | Testing exploratorio basado en sesiones |
+| 02 | [Testing exploratorio — Cine Ópera](./02-testing-exploratorio-cine-opera) | Sesión exploratoria sobre un sitio web real | Testing exploratorio basado en sesiones |
 | 03 | [Análisis funcional — ERP contable](./03-analisis-funcional-erp) | Reglas de negocio, criterios de aceptación y puntos de fallo de Login y Recuperación de contraseña | Análisis de requisitos, criterios Gherkin |
 | 04 | [Plan de pruebas — Módulo Clientes](./04-plan-pruebas-modulo-clientes) | 42 casos diseñados y 4 defectos reportados en un ERP post-migración | Clases de equivalencia, valores límite |
 
